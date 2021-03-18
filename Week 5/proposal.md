@@ -46,5 +46,7 @@ The main dataset I will be using is the [Student Assessment Performance data](ht
 
 ### Works Cited
 "Delaware." *National Alliance for Public Charter Schools*, https://www.publiccharters.org/our-work/charter-law-database/states/delaware. Accessed 17 March 2021.
+
 Jason, Zachary. "The Battle Over Charter Schools." *Harvard Ed. Magazine*, President and Fellows of Harvard College, Summer 2017, https://www.gse.harvard.edu/news/ed/17/05/battle-over-charter-schools. Accessed 17 March 2021.
+
 Rothstein, Richard. "The Racial Achievement Gap, Segregated Schools, and Segregated Neighborhoods - A Constitutional Insult." *Economic Policy Institute*, 12 Nov. 2014, [https://www.epi.org/publication/the-racial-achievement-gap-segregated-schools-and-segregated-neighborhoods-a-constitutional-insult/](https://www.epi.org/publication/the-racial-achievement-gap-segregated-schools-and-segregated-neighborhoods-a-constitutional-insult/). Accessed 17 March 2021.
