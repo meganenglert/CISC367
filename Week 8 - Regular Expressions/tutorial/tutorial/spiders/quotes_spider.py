@@ -8,6 +8,7 @@ class QuotesSpider(scrapy.Spider):
     start_urls = [
         'http://quotes.toscrape.com/page/1/',
     ]
+    custom_settings = {'CLOSESPIDER_PAGECOUNT': 5}
 
     def parse(self, response):
         for quote in response.css('div.quote'):
