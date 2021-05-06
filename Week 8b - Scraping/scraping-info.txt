@@ -1,0 +1,8 @@
+Website Link: https://boardgamegeek.com/browse/boardgame
+
+Github Link: https://github.com/meganenglert/CISC367/tree/main/Week%208b%20-%20Scraping
+
+Information: BoardGameGeek is a massive database of boardgames with over 120,000 individual game entries, featuring pictures, ratings, and reviews for each. All rankings are based on user
+ratings of games. Games are ranked by the "Geek Rating", which uses a Bayesian mean, preventing a game with 30 votes of 10 points from being the top game on the whole website. For the 
+sake of the length of the data, I filtered out games without enough votes for a rank and games that haven't been released yet, which also do not have a rank. The image link links to a 
+picture of the game, the description gives a short verbal description of the game's mechanics and theming, and the average rating is the raw average from recorded votes.
